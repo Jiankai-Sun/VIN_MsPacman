@@ -1,0 +1,334 @@
+mean reward (100 episodes) 231.400000                                                                                                                                                 [286/872]
+best mean reward 237.600000
+episodes 153
+exploration 0.910000
+Saved to model/statistics.pkl
+Timestep 110000
+mean reward (100 episodes) 222.200000
+best mean reward 237.600000
+episodes 169
+exploration 0.901000
+Saved to model/statistics.pkl
+Timestep 120000
+mean reward (100 episodes) 232.700000
+best mean reward 237.600000
+episodes 183
+exploration 0.892000
+Saved to model/statistics.pkl
+Timestep 130000
+mean reward (100 episodes) 222.200000
+best mean reward 237.600000
+episodes 199
+exploration 0.883000
+Saved to model/statistics.pkl
+Timestep 140000
+mean reward (100 episodes) 225.700000
+best mean reward 237.600000
+episodes 215
+exploration 0.874000
+Saved to model/statistics.pkl
+Timestep 150000
+mean reward (100 episodes) 224.100000
+best mean reward 237.600000
+episodes 230
+exploration 0.865000
+Saved to model/statistics.pkl
+Timestep 160000
+mean reward (100 episodes) 224.400000
+best mean reward 237.600000
+mean reward (100 episodes) 224.400000                                                                                                                                                 [250/872]
+best mean reward 237.600000
+episodes 247
+exploration 0.856000
+Saved to model/statistics.pkl
+Timestep 170000
+mean reward (100 episodes) 231.700000
+best mean reward 237.600000
+episodes 262
+exploration 0.847000
+Saved to model/statistics.pkl
+Timestep 180000
+mean reward (100 episodes) 221.900000
+best mean reward 237.600000
+episodes 279
+exploration 0.838000
+Saved to model/statistics.pkl
+Timestep 190000
+mean reward (100 episodes) 227.200000
+best mean reward 237.600000
+episodes 294
+exploration 0.829000
+Saved to model/statistics.pkl
+Timestep 200000
+mean reward (100 episodes) 233.100000
+best mean reward 237.600000
+episodes 310
+exploration 0.820000
+Saved to model/statistics.pkl
+Timestep 210000
+mean reward (100 episodes) 232.400000
+best mean reward 237.600000
+episodes 326
+exploration 0.811000
+Saved to model/statistics.pkl
+Timestep 220000
+mean reward (100 episodes) 244.400000
+best mean reward 245.800000
+
+episodes 341
+exploration 0.802000
+Saved to model/statistics.pkl
+Timestep 230000
+mean reward (100 episodes) 243.000000
+best mean reward 245.800000
+episodes 357
+exploration 0.793000
+Saved to model/statistics.pkl
+Timestep 240000
+mean reward (100 episodes) 249.300000
+best mean reward 249.300000
+episodes 372
+exploration 0.784000
+Saved to model/statistics.pkl
+Timestep 250000
+mean reward (100 episodes) 260.600000
+best mean reward 261.600000
+episodes 387
+exploration 0.775000
+Saved to model/statistics.pkl
+Timestep 260000
+mean reward (100 episodes) 258.900000
+best mean reward 261.600000
+episodes 403
+exploration 0.766000
+Saved to model/statistics.pkl
+Timestep 270000
+mean reward (100 episodes) 265.000000
+best mean reward 265.000000
+episodes 418
+exploration 0.757000
+Saved to model/statistics.pkl
+Timestep 280000
+mean reward (100 episodes) 264.500000
+best mean reward 265.000000
+
+episodes 434
+exploration 0.748000
+Saved to model/statistics.pkl
+Timestep 290000
+mean reward (100 episodes) 271.900000
+best mean reward 271.900000
+episodes 448
+exploration 0.739000
+Saved to model/statistics.pkl
+Timestep 300000
+mean reward (100 episodes) 270.400000
+best mean reward 273.500000
+episodes 463
+exploration 0.730000
+Saved to model/statistics.pkl
+Timestep 310000
+mean reward (100 episodes) 277.400000
+best mean reward 277.600000
+episodes 478
+exploration 0.721000
+Saved to model/statistics.pkl
+Timestep 320000
+mean reward (100 episodes) 282.500000
+best mean reward 282.500000
+episodes 493
+exploration 0.712000
+Saved to model/statistics.pkl
+Timestep 330000
+mean reward (100 episodes) 301.300000
+best mean reward 301.300000
+episodes 506
+exploration 0.703000
+Saved to model/statistics.pkl
+Timestep 340000
+mean reward (100 episodes) 314.500000
+best mean reward 317.000000
+
+episodes 519
+exploration 0.694000
+Saved to model/statistics.pkl
+Timestep 350000
+mean reward (100 episodes) 330.100000
+best mean reward 332.900000
+episodes 535
+exploration 0.685000
+Saved to model/statistics.pkl
+Timestep 360000
+mean reward (100 episodes) 328.200000
+best mean reward 333.300000
+episodes 551
+exploration 0.676000
+Saved to model/statistics.pkl
+Timestep 370000
+mean reward (100 episodes) 333.100000
+best mean reward 333.300000
+episodes 565
+exploration 0.667000
+Saved to model/statistics.pkl
+Timestep 380000
+mean reward (100 episodes) 341.300000
+best mean reward 341.300000
+episodes 580
+exploration 0.658000
+Saved to model/statistics.pkl
+Timestep 390000
+mean reward (100 episodes) 335.300000
+best mean reward 348.200000
+episodes 595
+exploration 0.649000
+Saved to model/statistics.pkl
+Timestep 400000
+mean reward (100 episodes) 314.000000
+best mean reward 348.200000
+
+episodes 611
+exploration 0.640000
+Saved to model/statistics.pkl
+Timestep 410000
+mean reward (100 episodes) 305.900000
+best mean reward 348.200000
+episodes 625
+exploration 0.631000
+Saved to model/statistics.pkl
+Timestep 420000
+mean reward (100 episodes) 325.900000
+best mean reward 348.200000
+episodes 638
+exploration 0.622000
+Saved to model/statistics.pkl
+Timestep 430000
+mean reward (100 episodes) 357.600000
+best mean reward 360.500000
+episodes 651
+exploration 0.613000
+Saved to model/statistics.pkl
+Timestep 440000
+mean reward (100 episodes) 365.300000
+best mean reward 366.700000
+episodes 666
+exploration 0.604000
+Saved to model/statistics.pkl
+Timestep 450000
+mean reward (100 episodes) 368.300000
+best mean reward 380.200000
+episodes 679
+exploration 0.595000
+Saved to model/statistics.pkl
+Timestep 460000
+mean reward (100 episodes) 366.800000
+best mean reward 380.200000
+
+episodes 694
+exploration 0.586000
+Saved to model/statistics.pkl
+Timestep 470000
+mean reward (100 episodes) 393.900000
+best mean reward 393.900000
+episodes 707
+exploration 0.577000
+Saved to model/statistics.pkl
+Timestep 480000
+mean reward (100 episodes) 391.600000
+best mean reward 402.100000
+episodes 721
+exploration 0.568000
+Saved to model/statistics.pkl
+Timestep 490000
+mean reward (100 episodes) 374.400000
+best mean reward 402.100000
+episodes 735
+exploration 0.559000
+Saved to model/statistics.pkl
+Timestep 500000
+mean reward (100 episodes) 342.700000
+best mean reward 402.100000
+episodes 750
+exploration 0.550000
+Saved to model/statistics.pkl
+Timestep 510000
+mean reward (100 episodes) 350.600000
+best mean reward 402.100000
+episodes 764
+exploration 0.541000
+Saved to model/statistics.pkl
+Timestep 520000
+mean reward (100 episodes) 343.300000
+best mean reward 402.100000
+
+episodes 780
+exploration 0.532000
+Saved to model/statistics.pkl
+Timestep 530000
+mean reward (100 episodes) 345.100000
+best mean reward 402.100000
+episodes 795
+exploration 0.523000
+Saved to model/statistics.pkl
+Timestep 540000
+mean reward (100 episodes) 330.200000
+best mean reward 402.100000
+episodes 810
+exploration 0.514000
+Saved to model/statistics.pkl
+Timestep 550000
+mean reward (100 episodes) 333.000000
+best mean reward 402.100000
+episodes 824
+exploration 0.505000
+Saved to model/statistics.pkl
+Timestep 560000
+mean reward (100 episodes) 355.300000
+best mean reward 402.100000
+episodes 836
+exploration 0.496000
+Saved to model/statistics.pkl
+Timestep 570000
+mean reward (100 episodes) 390.600000
+best mean reward 402.100000
+episodes 848
+exploration 0.487000
+Saved to model/statistics.pkl
+Timestep 580000
+mean reward (100 episodes) 415.300000
+best mean reward 432.300000
+
+mean reward (100 episodes) 415.300000
+best mean reward 432.300000
+episodes 860
+exploration 0.478000
+Saved to model/statistics.pkl
+Timestep 590000
+mean reward (100 episodes) 447.500000
+best mean reward 447.500000
+episodes 872
+exploration 0.469000
+Saved to model/statistics.pkl
+Timestep 600000
+mean reward (100 episodes) 465.900000
+best mean reward 465.900000
+episodes 884
+exploration 0.460000
+Saved to model/statistics.pkl
+Timestep 610000
+mean reward (100 episodes) 489.800000
+best mean reward 491.900000
+episodes 896
+exploration 0.451000
+Saved to model/statistics.pkl
+Timestep 620000
+mean reward (100 episodes) 507.200000
+best mean reward 508.200000
+episodes 909
+exploration 0.442000
+Saved to model/statistics.pkl
+Timestep 630000
+mean reward (100 episodes) 530.900000
+best mean reward 530.900000
+episodes 921
+exploration 0.433000
+Saved to model/statistics.pkl
