@@ -120,11 +120,10 @@ def dqn_testing(
         obs = np.transpose(obs, (2, 0, 1))
         last_reward = 0
         while True:
-            env.render()
+            # env.render()
             # obs = torch.from_numpy(last_obs).float()
             # obs = last_obs
             action = select_epilson_greedy_action(Q, obs, t)[0]
-
             obs, reward, done, _ = env.step(action)
             obs = np.transpose(obs, (2, 0, 1))
             total_reward += reward

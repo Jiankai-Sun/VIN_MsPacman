@@ -142,7 +142,6 @@ def dqn_learing(
     mean_episode_reward = -float('nan')
     best_mean_episode_reward = -float('inf')
     last_obs = env.reset()
-    last_obs = np.transpose(last_obs, (2, 0, 1))
     LOG_EVERY_N_STEPS = 10000
 
     for t in count():
@@ -158,7 +157,6 @@ def dqn_learing(
         # input that should be given to a Q network by appending some
         # previous frames.
         recent_observations = replay_buffer.encode_recent_observation()
-
         # Choose random action if not yet start learning
         if t > learning_starts:
             action = select_epilson_greedy_action(Q, recent_observations, t)[0]
@@ -173,7 +171,6 @@ def dqn_learing(
         # Resets the environment when reaching an episode boundary.
         if done:
             obs = env.reset()
-        obs = np.transpose(obs, (2, 0, 1))
         last_obs = obs
 
         ### Perform experience replay and train the network.
@@ -203,8 +200,6 @@ def dqn_learing(
             # We choose Q based on action taken.
 
             current_Q_values = Q(obs_batch, config).gather(1, act_batch.unsqueeze(1))
-            # print(current_Q_values)
-            # print(act_batch)
             # current_Q_values = current_Q_values.gather(1, act_batch.unsqueeze(1))
 
             # Compute next Q value based on which action gives max Q values
