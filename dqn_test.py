@@ -116,19 +116,22 @@ def dqn_testing(
     total_reward = 0
 
     for t in range(100):
-        last_obs = env.reset()
+        obs = env.reset()
+        obs = np.transpose(obs, (2, 0, 1))
         last_reward = 0
         while True:
             env.render()
-            obs = torch.from_numpy(last_obs).float()
+            # obs = torch.from_numpy(last_obs).float()
+            # obs = last_obs
             action = select_epilson_greedy_action(Q, obs, t)[0]
 
             obs, reward, done, _ = env.step(action)
+            obs = np.transpose(obs, (2, 0, 1))
             total_reward += reward
             last_reward += reward
             if done:
                 break
-        print('episode: ', t, 'Evaluation Average Reward:', last_reward)
-        ave_reward = total_reward / 100
-        print('episode: ', 100, 'Evaluation Average Reward:', ave_reward)
+        print('episode: ', t, 'Evaluation Reward:', last_reward)
+    ave_reward = total_reward / 100
+    print('episode: ', 100, 'Evaluation Average Reward:', ave_reward)
 
